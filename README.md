@@ -1,1 +1,0 @@
-# Dockerimage-ecr-terraform
